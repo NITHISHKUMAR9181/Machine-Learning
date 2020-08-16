@@ -9,3 +9,4 @@ Regression Types:
         3.DecisionTree Reegressor.
         4.KNearest Neighbors Regression.
         5.RandomForest Regressor.
+        6.Polynomial Regressor.
