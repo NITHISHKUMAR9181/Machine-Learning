@@ -10,3 +10,12 @@ Regression Types:
         4.KNearest Neighbors Regression.
         5.RandomForest Regressor.
         6.Polynomial Regressor.
+        7.Cross Validation.
+      
+Classification Types:
+
+        1.Logistic Regression.
+        2.DecisionTree Classifier.
+        3.KNearest Neighbors Classifier.
+        4.RandomForest Classifier.
+        
