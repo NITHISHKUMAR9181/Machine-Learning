@@ -18,4 +18,5 @@ Classification Types:
         2.DecisionTree Classifier.
         3.KNearest Neighbors Classifier.
         4.RandomForest Classifier.
+        5.Support Vector Machines(SVM).
         
