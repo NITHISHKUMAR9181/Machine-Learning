@@ -1,7 +1,8 @@
 
 
 ----------------------------------------** Index **----------------------------------------------
-
+ 
+                    --------> Supervised Learning <---------
 Regression Types:
 
         1.Linear Regression.
@@ -19,4 +20,6 @@ Classification Types:
         3.KNearest Neighbors Classifier.
         4.RandomForest Classifier.
         5.Support Vector Machines(SVM).
+        
+                   --------> Unsupervised Learning <--------
         
